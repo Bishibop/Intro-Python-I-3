@@ -14,6 +14,7 @@ for my_arg in sys.argv:
     print(my_arg)
 
 # Print out the OS platform you're using:
+
 print("Platform:")
 print(sys.platform)
 
